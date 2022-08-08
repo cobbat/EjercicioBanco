@@ -1,0 +1,15 @@
+C:\Users\Sofini\source\repos\CuentasDeBanco\CuentasDeBanco\bin\Debug\net6.0\CuentasDeBanco.exe
+C:\Users\Sofini\source\repos\CuentasDeBanco\CuentasDeBanco\bin\Debug\net6.0\CuentasDeBanco.deps.json
+C:\Users\Sofini\source\repos\CuentasDeBanco\CuentasDeBanco\bin\Debug\net6.0\CuentasDeBanco.runtimeconfig.json
+C:\Users\Sofini\source\repos\CuentasDeBanco\CuentasDeBanco\bin\Debug\net6.0\CuentasDeBanco.dll
+C:\Users\Sofini\source\repos\CuentasDeBanco\CuentasDeBanco\bin\Debug\net6.0\CuentasDeBanco.pdb
+C:\Users\Sofini\source\repos\CuentasDeBanco\CuentasDeBanco\obj\Debug\net6.0\CuentasDeBanco.csproj.AssemblyReference.cache
+C:\Users\Sofini\source\repos\CuentasDeBanco\CuentasDeBanco\obj\Debug\net6.0\CuentasDeBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sofini\source\repos\CuentasDeBanco\CuentasDeBanco\obj\Debug\net6.0\CuentasDeBanco.AssemblyInfoInputs.cache
+C:\Users\Sofini\source\repos\CuentasDeBanco\CuentasDeBanco\obj\Debug\net6.0\CuentasDeBanco.AssemblyInfo.cs
+C:\Users\Sofini\source\repos\CuentasDeBanco\CuentasDeBanco\obj\Debug\net6.0\CuentasDeBanco.csproj.CoreCompileInputs.cache
+C:\Users\Sofini\source\repos\CuentasDeBanco\CuentasDeBanco\obj\Debug\net6.0\CuentasDeBanco.dll
+C:\Users\Sofini\source\repos\CuentasDeBanco\CuentasDeBanco\obj\Debug\net6.0\refint\CuentasDeBanco.dll
+C:\Users\Sofini\source\repos\CuentasDeBanco\CuentasDeBanco\obj\Debug\net6.0\CuentasDeBanco.pdb
+C:\Users\Sofini\source\repos\CuentasDeBanco\CuentasDeBanco\obj\Debug\net6.0\CuentasDeBanco.genruntimeconfig.cache
+C:\Users\Sofini\source\repos\CuentasDeBanco\CuentasDeBanco\obj\Debug\net6.0\ref\CuentasDeBanco.dll
